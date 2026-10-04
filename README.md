@@ -1,16 +1,28 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Hey, I'm Marissa. Tech helper, creative, Colorado girl. Fun, adventures, and making new things.">
+</picture>
 
-<!--
-**JustMYriss/justmyriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little about me
 
-Here are some ideas to get you started:
+- 🛠️ **I love helping with tech support.** From "why is my email doing that?" to "can you set this up for me?", I'm happy to jump in.
+- 🎨 **Creative at heart.** I'm always dreaming up and making something new.
+- 📸 **Photos are my thing.** I love capturing the moment.
+- 🏔️ **Colorado girl.** Always up for fun and a new adventure.
+- 🤖 **Learning AI and building with it.** It's my favorite new tool for creating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where you'll find me
+
+- 💼 **Co-owner of [TMCO Consulting](https://tmcoconsulting.com/)**: websites and tech help for small businesses and nonprofits
+
+### What I'm up to right now
+
+| 🌱 Learning | ✨ Making | 🗺️ Next adventure |
+|:---:|:---:|:---:|
+| AI and how to build with it | New creative projects | Somewhere in the mountains |
+
+<br>
+
+<img src="assets/palette.svg" width="100%" alt="">
+
+<p align="center"><sub>Black · pink · nude · olive · ivory. Thanks for stopping by! 💕</sub></p>

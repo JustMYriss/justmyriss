@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14" role="img" aria-label="Color strip: black, pink, nude, olive, ivory">
+  <clipPath id="r"><rect width="1200" height="14" rx="7"/></clipPath>
+  <g clip-path="url(#r)"><rect x="0" y="0" width="240" height="14" fill="#141414"/><rect x="240" y="0" width="240" height="14" fill="#E9A3B5"/><rect x="480" y="0" width="240" height="14" fill="#E8CFC4"/><rect x="720" y="0" width="240" height="14" fill="#6B7045"/><rect x="960" y="0" width="240" height="14" fill="#F7F2EA"/></g>
+  <rect x="0.5" y="0.5" width="1199" height="13" rx="6.5" fill="none" stroke="#D8CFC4"/>
+</svg>
